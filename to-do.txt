@@ -1,0 +1,3 @@
+install this packages when using this training model
+
+pip install tensorflow scikit-learn numpy matplotl
